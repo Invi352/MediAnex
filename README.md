@@ -31,5 +31,6 @@ To install these packages and utilise them through an R script use the below cod
 To simply install them through the console run:
 
   install.packages('tidyverse')
-
-  
+***
+## Application use:
+To use the application simply download the repository and keep all the files in the same folders. Then by opening R studio, open the script of the application and press the run application button. If the packages are not installed, they will begin installing if the user permits and this can take a while. 
