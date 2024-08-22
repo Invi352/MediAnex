@@ -1,0 +1,11 @@
+﻿id,label,color.background,color.border,level,shape,font.size,size,x,y,opacity,margin.top,margin.bottom,margin.left,margin.right
+ERES_box,,,white,5,box,30,10,6.7,-2,0.2,70,70,260,260
+ERES,E-series resolvins,black,white,5,text,30,10,5,4,1,5,5,5,5
+EPA,EPA,purple,white,1,hexagon,30,15,7,-17,1,5,5,5,5
+COX-2/CYP450,COX-2/CYP450,lightblue,white,2,box,30,10,5.5,-12,1,5,5,5,5
+ALOX5,ALOX5,lightblue,white,3,box,30,10,5.5,-8,1,5,5,5,5
+ALOX15,ALOX15,lightblue,white,3,box,30,10,9,-8,1,5,5,5,5
+RvE4,RvE4,lightgrey,white,4,dot,30,10,5.5,-3,1,5,5,5,5
+RvE1,RvE1,lightgrey,white,5,dot,30,10,4,-3,1,5,5,5,5
+RvE2,RvE2,lightgrey,white,5,dot,30,10,7,-3,1,5,5,5,5
+RvE3,RvE3,lightgrey,white,4,dot,30,10,9,-3,1,5,5,5,5

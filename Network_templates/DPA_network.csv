@@ -1,0 +1,29 @@
+﻿id,label,color.background,color.border,level,shape,opacity,size,x,y,margin.top,margin.bottom,margin.left,margin.right
+PROT_BOX,,,white,7,box,0.2,10,3.3,-13.5,150,150,130,130
+TSR_BOX,,,white,7,box,0.2,10,4.1,-12.2,100,100,120,120
+DSR_BOX,,,white,7,box,0.2,10,5.6,-12.2,100,100,200,200
+MAR_BOX,,,white,7,box,0.2,10,6.75,-13.5,150,150,130,130
+PROT,Protectins,black,white,7,text,1,10,3,-12.8,5,5,5,5
+TSR,T-series Resolvins,black,white,7,text,1,10,4,-11.7,5,5,5,5
+DSR,D-series Resolvins,black,white,7,text,1,10,5.2,-11.7,5,5,5,5
+MAR,Maresins,black,white,7,text,1,10,6.4,-12.8,5,5,5,5
+n-3 DPA,n-3 DPA,purple,white,1,hexagon,1,15,5,-16,5,5,5,5
+ALOX15,ALOX15,lightblue,white,2,box,1,10,4.5,-15.5,5,5,5,5
+COX-2,COX-2,lightblue,white,2,box,1,10,5,-15.5,5,5,5,5
+ALOX12,ALOX12,lightblue,white,2,box,1,10,5.5,-15.5,5,5,5,5
+EH,EH,lightblue,white,3,box,1,10,4.5,-15,5,5,5,5
+ALOX5,ALOX5,lightblue,white,3,box,1,10,5,-15,5,5,5,5
+PD1n-3DPA,PD1n-3DPA,lightgrey,white,4,dot,1,10,3,-14,5,5,5,5
+PD2n-3DPA,PD2n-3DPA,lightgrey,white,4.5,dot,1,10,3.2,-13.6,5,5,5,5
+"10S,17S-diHDPA","10S,17S-diHDPA",lightgrey,white,5,dot,1,10,3.5,-13.2,5,5,5,5
+RvT1,RvT1,lightgrey,white,6,dot,1,10,3.8,-12.5,5,5,5,5
+RvT2,RvT2,lightgrey,white,7,dot,1,10,3.9,-12,5,5,5,5
+RvT3,RvT3,lightgrey,white,6,dot,1,10,4.3,-12.5,5,5,5,5
+RvT4,RvT4,lightgrey,white,7,dot,1,10,4.4,-12,5,5,5,5
+RvD1n-3DPA,RvD1n-3DPA,lightgrey,white,6,dot,1,10,6,-12.5,5,5,5,5
+RvD2n-3DPA,RvD2n-3DPA,lightgrey,white,6.5,dot,1,10,5.6,-12.25,5,5,5,5
+RvD5n-3DPA,RvD5n-3DPA,lightgrey,white,7,dot,1,10,5.2,-12,5,5,5,5
+"7S,14S-diHDPA","7S,14S-diHDPA",lightgrey,white,5,dot,1,10,6.5,-13.2,5,5,5,5
+MaR2n-3DPA,MaR2n-3DPA,lightgrey,white,4.5,dot,1,10,6.8,-13.6,5,5,5,5
+MaR1n-3DPA,MaR1n-3DPA,lightgrey,white,4,dot,1,10,7,-14,5,5,5,5
+EH2,EH,lightblue,white,3,box,1,10,5.5,-15,5,5,5,5

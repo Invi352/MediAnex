@@ -1,0 +1,10 @@
+﻿from,to,dashes,arrows.to.enabled,arrows.middle.enabled,arrows.to.type,arrows.middle.type,color,width
+EPA,COX-2/CYP450,"[10, 10, 2, 2]",T,T,vee,vee,black,1
+EPA,ALOX15,false,F,F,arrow,arrow,black,1
+COX-2/CYP450,ALOX5,"[10, 10, 2, 2]",T,T,vee,vee,black,1
+COX-2/CYP450,ALOX15,"[10, 10, 2, 2]",T,T,vee,vee,black,1
+ALOX15,ALOX5,false,F,F,arrow,arrow,black,1
+ALOX5,RvE4,false,F,F,arrow,arrow,black,1
+ALOX5,RvE1,"[10, 10, 2, 2]",T,T,vee,vee,black,1
+ALOX5,RvE2,"[10, 10, 2, 2]",T,T,vee,vee,black,1
+ALOX15,RvE3,"[10, 10, 2, 2]",T,T,vee,vee,black,1

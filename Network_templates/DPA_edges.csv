@@ -1,0 +1,22 @@
+﻿from,to,dashes,arrows.to.enabled,arrows.middle.enabled,arrows.to.type,arrows.middle.type,color,width
+n-3 DPA,ALOX15,false,F,F,arrow,arrow,black,1
+n-3 DPA,COX-2,true,T,T,vee,vee,black,1
+n-3 DPA,ALOX12,true,F,F,arrow,arrow,black,1
+ALOX15,EH,false,F,F,arrow,arrow,black,1
+ALOX15,ALOX5,false,F,F,arrow,arrow,black,1
+EH,PD1n-3DPA,false,F,F,arrow,arrow,black,1
+EH,PD2n-3DPA,false,F,F,arrow,arrow,black,1
+EH2,MaR1n-3DPA,true,F,F,arrow,arrow,black,1
+EH2,MaR2n-3DPA,true,F,F,arrow,arrow,black,1
+COX-2,ALOX5,true,T,T,vee,vee,black,1
+ALOX12,ALOX5,true,F,F,arrow,arrow,black,1
+ALOX12,EH2,true,F,F,arrow,arrow,black,1
+ALOX5,"10S,17S-diHDPA",false,F,F,arrow,arrow,black,1
+ALOX5,RvT1,true,T,T,vee,vee,black,1
+ALOX5,RvT2,true,T,T,vee,vee,black,1
+ALOX5,RvT3,true,T,T,vee,vee,black,1
+ALOX5,RvT4,true,T,T,vee,vee,black,1
+ALOX5,RvD1n-3DPA,true,F,F,arrow,arrow,black,1
+ALOX5,RvD2n-3DPA,true,F,F,arrow,arrow,black,1
+ALOX5,RvD5n-3DPA,true,F,F,arrow,arrow,black,1
+ALOX5,"7S,14S-diHDPA",true,F,F,arrow,arrow,black,1
