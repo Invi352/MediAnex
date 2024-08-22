@@ -17,8 +17,11 @@ This Application was built for the lipid mediator Unit of Queen Mary university 
 Below is a table of all the libraried used in this project. The included libraries are required to build the shiny application, with the relevant interfaces, as well as to complete analysis, build ML models an create plots and tables of results.
 
 if (!require('shiny')) install.packages('shiny'); library('shiny')
+
 if (!require('ggplot2')) install.packages('ggplot2'); library('ggplot2')
+
 if (!require('ggpubr')) install.packages('ggpubr'); library('ggpubr')
+
 if (!require('ggrepel')) install.packages('ggrepel'); library('ggrepel')
 if (!require('dplyr')) install.packages('dplyr'); library('dplyr')
 if (!require('plotly')) install.packages('plotly'); library('plotly')
